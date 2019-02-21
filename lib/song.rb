@@ -4,7 +4,7 @@ class Song
   attr_reader :song
 
   def initialize(name, artist, genre)
-    @song = 
+    @song =
   end
 
 end
