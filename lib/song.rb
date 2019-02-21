@@ -31,10 +31,6 @@ class Song
         hash[e] += 1
         hash
     end
-
-  def self.artist_count
-
-  end
   end
 
 
